@@ -122,7 +122,8 @@ return [
             'TwigBridge\Extension\Laravel\Translator',
             'TwigBridge\Extension\Laravel\Url',
             'TwigBridge\Extension\Laravel\Model',
-            // 'TwigBridge\Extension\Laravel\Gate',
+            'TwigBridge\Extension\Laravel\Gate',
+            'TwigBridge\Extension\Laravel\Vite',
 
             // 'TwigBridge\Extension\Laravel\Form',
             // 'TwigBridge\Extension\Laravel\Html',
